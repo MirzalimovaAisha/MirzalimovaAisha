@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <ul>
   <p>Information</p>
   <li>Name: Mirzalimova Aisha</li>  
-  <li>Age: 19 years old</li>  
+  <li>Age: 19d</li>  
   <li>Email: mir31090@gmail.com</li>  
 </ul>
 

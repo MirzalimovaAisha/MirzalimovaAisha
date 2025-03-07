@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-<ul>
-  <p>Information</p>
-  <li>Name: Mirzalimova Aisha</li>  
-  <li>Age: 19</li>  
-  <li>Email: mir31090@gmail.com</li>  
-</ul>
+
 
 <ul>
   <p>SKILLS</p>

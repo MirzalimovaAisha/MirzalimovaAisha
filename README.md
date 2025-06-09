@@ -28,7 +28,7 @@
 ## 🏆 Achievements
 
 - 🥇 1st Place in Mobile App Development Competition  
-- 🥈 2nd Place in Web Development & UI/UX Design Contest  
+- 🥈 2nd Place in Web Development & Design Contest  
 
 ---
 
@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=github_dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubid&layout=compact&theme=github_dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?MirzalimovaAisha=ㅡMirzalimovaAisha&show_icons=true&theme=github_dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?MirzalimovaAisha=MirzalimovaAisha&layout=compact&theme=github_dark" width="300"/>
 </div>
 
 ---

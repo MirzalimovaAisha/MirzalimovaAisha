@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?MirzalimovaAisha=ㅡMirzalimovaAisha&show_icons=true&theme=github_dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?MirzalimovaAisha=MirzalimovaAisha&layout=compact&theme=github_dark" width="300"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=MirzalimovaAisha&show_icons=true&theme=github_dark" width="400"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzalimovaAisha&layout=compact&theme=github_dark" width="300"/>
 </div>
 
 ---

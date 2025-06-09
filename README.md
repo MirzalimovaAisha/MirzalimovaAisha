@@ -1,60 +1,75 @@
-## 👋 Hi there! I'm [Your Name]  
+<h1 align="center">✨ Welcome to Aisha's World ✨</h1>
 
-I'm a passionate developer who loves creating beautiful and functional user experiences.  
-Welcome to my GitHub! 🚀
+<p align="center">
+  <img src="https://i.pinimg.com/originals/67/c9/1f/67c91f18f50ccaa43d562e2eb4eb08ae.gif" width="250" alt="cute-dev-girl" />
+</p>
+
+<p align="center">
+  🎀 Creative Developer | 🦋 Flutter & Frontend Lover | 🎨 UI/UX Designer  
+</p>
 
 ---
 
-### 🎨 Tech Stack & Tools
+## 🍭 Tech Toolbox
 
-#### 💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-#### 📱 Mobile & UI
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-46D1FD?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-#### 🛠 Backend & Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+</div>
 
 ---
 
-### ✨ About Me
-- 🔭 Currently working on: Flutter shopping app & UI design
-- 🌱 Learning: Firebase, Next.js, and Clean Architecture
-- 🎯 Goal: To become a versatile full-stack developer
-- 😄 Pronouns: she/her
-- 🧠 Fun fact: I love pixel art and animation!
+## 🍬 Who is Aisha?
+
+- 🛍 Making a Flutter Shopping App
+- 🌷 Loves anything pretty — especially in UI!
+- 🎨 Designing pixels with emotion
+- 🐱 Feels at peace when organizing cute components
+- 💌 Believes design is love made visible.
 
 ---
 
-### 📊 GitHub Stats  
+## 🌸 Let's connect
+
+<div align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourhandle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.link">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🌙 Aesthetic Vibes
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180" />
 </p>
 
 ---
 
-### 🧑‍🎨 Illustration
+## 🧚‍♀️ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=cobalt" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubid&layout=compact&theme=tokyonight" width="300"/>
+</div>
+
+---
+
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2704410/screenshots/7466903/media/b14a8604cd8e490f015ef0a5b6b5e2b0.png" width="300" alt="developer illustration" />
+  🧸 Thank you for stopping by! Let's build something magical together ✨
 </p>
-
----
-
-### 📬 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yourportfolio.link)
-

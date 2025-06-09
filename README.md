@@ -8,6 +8,18 @@
   🎀 Creative Developer | 🦋 Flutter & Frontend Lover | 🎨 UI/UX Designer  
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e6/1a/76/e61a767bc5804a4745b9e8b0ad72d778.gif" width="200" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place** in Mobile App Development Contest  
+- 🥈 **2nd Place** in Web Development & Design Competition  
+- 💡 Recognized for creativity, aesthetic sense, and user-focused features
+
 ---
 
 ## 🍭 Tech Toolbox
@@ -27,15 +39,20 @@
 
 ## 🍬 Who is Aisha?
 
-- 🛍 Making a Flutter Shopping App
-- 🌷 Loves anything pretty — especially in UI!
-- 🎨 Designing pixels with emotion
-- 🐱 Feels at peace when organizing cute components
-- 💌 Believes design is love made visible.
+- 🛍 Making a Flutter Shopping App  
+- 🌷 Loves anything pretty — especially in UI!  
+- 🎨 Designing pixels with emotion  
+- 🐱 Feels at peace when organizing cute components  
+- 💌 Believes design is love made visible  
+- 🧸 Favorite dev companion: Matcha latte + Lo-fi beats
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bf/44/9c/bf449cbf93ae24d3e1d00bd8bcf413e2.gif" width="180" />
+</p>
 
 ---
 
-## 🌸 Let's connect
+## 🌸 Let's connect!
 
 <div align="center">
   <a href="mailto:your.email@gmail.com">
@@ -51,16 +68,6 @@
 
 ---
 
-## 🌙 Aesthetic Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180" />
-</p>
-
----
-
 ## 🧚‍♀️ GitHub Stats
 
 <div align="center">
@@ -71,5 +78,9 @@
 ---
 
 <p align="center">
-  🧸 Thank you for stopping by! Let's build something magical together ✨
+  <img src="https://i.pinimg.com/originals/f3/2b/d6/f32bd6245b5054c25e99dbf8097a7c26.gif" width="200" />
+</p>
+
+<p align="center">
+  🧸 Thank you for stopping by! Let's build something magical together ✨  
 </p>

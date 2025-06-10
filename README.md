@@ -53,3 +53,4 @@
 <p align="center">
   📫 Reach out if you'd like to collaborate!
 </p>
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/kyechan99/capsule-render)

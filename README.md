@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Flutter Developer | 🎨 UI/UX Designer | 🛠 Frontend Engineer
+  💻 Web & App Developer | 🎨 UI/UX Designer | 🛠 Frontend Engineer
 </p>
 
 ---

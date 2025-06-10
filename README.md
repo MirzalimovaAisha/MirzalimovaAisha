@@ -53,4 +53,5 @@
 <p align="center">
   📫 Reach out if you'd like to collaborate!
 </p>
-https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/kyechan99/capsule-render
+<!-- https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/kyechan99/capsule-render -->
+<img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)" />

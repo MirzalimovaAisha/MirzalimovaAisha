@@ -28,9 +28,9 @@
 ## 🏆 Achievements
 
 - 🥇 1st Place in Mobile App Development Competition
-      2025대구지방경기대회 모바일앱개발 - 금상
+      (2025대구지방경기대회 모바일앱개발 - 금상)
 - 🥈 2nd Place in Web Development & Design Contest
-      2024대구지방경기대회 웹디자인 & 개발 - 은상
+      (2024대구지방경기대회 웹디자인 & 개발 - 은상)
 
 ---
 
